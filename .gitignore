@@ -1,2 +1,3 @@
-./src/chk/
-./src/logs/
+src/chk/
+src/logs/
+src/val_logs/
